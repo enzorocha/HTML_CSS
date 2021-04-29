@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UFT-8">
+		<title>Site</title>
+		<link href="estilo.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+		<h1>Meu Título</h1>
+		<p>Meu texto</p>
+		<p>Meu texto 2</p>
+		Esse é meu site
+	</body>
+
+</html>
