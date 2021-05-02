@@ -1,0 +1,14 @@
+p {
+	color: blue;
+	font-size: 32px;
+	font-family: Verdana;
+}
+
+#segundo_p{
+	font-weight: bold;
+	background-color: #edb10c;
+}
+
+.vermelho{
+	color: red;
+}
