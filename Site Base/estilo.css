@@ -54,7 +54,7 @@ e texto do logo do site) **/
 #logo {
     /** Definimos uma largura capaz de armazenar a imagem e o texto
     do logo do site. Neste caso, 340px **/
-    width: 340px;
+    width: 410px;
 
     /** Definimos uma altura capaz de armazenar a imagem e o texto
     do logo do site. Neste caso, 100px **/    
@@ -87,7 +87,7 @@ e texto do logo do site) **/
     definimos a margem do elemento para -170px. Esta técnica pode ser
     utilizada sempre que for necessário posicionar elementos no meio
     da página **/
-    margin-left: -170px;
+    margin-left: -190px;
 }
 
 /** Seleciona o elemento com o id "logoImg". No nosso caso, a imagem
@@ -274,7 +274,7 @@ principal do site **/
 
     /** Definindo um tamanho arbitrário para a div principal.
     Neste caso, 700px. **/
-    width: 700px;
+    width: 800px;
     
     /** Definimos a cor branca para a div principal **/
     background-color: white;
@@ -303,7 +303,7 @@ principal do site **/
     color: white;
 
     /** Define um tamanho de fonte de 64px; **/
-    font-size: 64px;
+    font-size: 50px;
     
     /** Remove a margem padrão dos elementos H **/
     margin: 0;
@@ -327,10 +327,10 @@ principal do site **/
 #promocaoValor {
 
     /** Define a cor da fonte como branca **/
-    color: white;
+    color: red;
 
     /** Define um tamanho de fonte de 48px; **/
-    font-size: 48px;
+    font-size: 30px;
 
     /** Remove a margem padrão dos elementos H **/
     margin: 0;
@@ -497,7 +497,7 @@ principal do site **/
     margin: 0;
 
     /** Define um tamanho de fonte para o H4 em 28px **/
-    font-size: 28px;
+    font-size: 24px;
 }
 
 /** Seçeciona os elementos h5 de um elemento com id "tel" **/
