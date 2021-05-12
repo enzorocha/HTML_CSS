@@ -7,7 +7,7 @@ body {
 	/** Indroduction of css **/
 	/** Modify the background **/
     /** Muda a cor do fundo da página **/
-    background-color: #e6e6e6;
+    background-color: #46ab7f;
 
     /** Muda a fonte do corpo da página e de todos os elementos
     em seu interior para Candara, Helvetica (se Candara não
@@ -148,7 +148,7 @@ que representa o logo do site**/
     width: 100%;
 
     /** Muda a cor do fundo da página **/
-    background-color: #4b4b4b;
+    background-color: #46ab7f
 }
 
 /** Seleciona a lista ordenada que compõe o menu **/
@@ -249,10 +249,10 @@ já visitados **/
 .listaMenu li a:hover {
 
     /** Muda a cor do link  **/
-    color: #4b4b4b;
+    color: #46ab7f;
 
     /** Muda a cor de fundo para branco **/
-    background-color: white;
+    background-color: #46ab7f;
 }
 
 /** Seleciona os elementos com o id "menuAtual" quando em estado
@@ -354,7 +354,7 @@ principal do site **/
 
 #tituloConteudo {
     /** Define a cor do texto **/
-    color: #4b4b4b;
+    color: #46ab7f;
         
     /** Alinha o texto do título no centro **/
     text-align: center;
